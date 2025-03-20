@@ -1,2 +1,2 @@
-# thalerCalculator
-Python Edube Project - Thaler Calculator
+# Thaler Tax Calculator
+Python Edube Project - Thaler Tax Calculator
